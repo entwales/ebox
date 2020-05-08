@@ -1110,7 +1110,78 @@ section.lazy-placeholder:after {
   color: #0f7699 !important;
 }
 .cid-rYfTWIYiDn {
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/ebox2-1256x1143.png");
+}
+.cid-rYoS8fdXDV {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rYoS8fdXDV P {
+  color: #767676;
+}
+.cid-rYoT4k4hUD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rYoT4k4hUD .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rYoT4k4hUD .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rYoT4k4hUD .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rYoT4k4hUD .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rYoT4k4hUD .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rYoT4k4hUD .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rYoT4k4hUD .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rYoT4k4hUD .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rYoT4k4hUD .panel-item {
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-rYoT4k4hUD .panel-item .card-img {
+    padding: 0;
+    padding-bottom: 1rem;
+  }
 }
 .cid-rYfUq1Ge1h {
   padding-top: 0px;
@@ -1129,6 +1200,7 @@ section.lazy-placeholder:after {
 }
 .cid-rYfUq1Ge1h .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rYfUKndQBt {
   padding-top: 0px;
@@ -1159,7 +1231,7 @@ section.lazy-placeholder:after {
 .cid-rYenmfaGOa {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rYenmfaGOa .socicon-bg-facebook {
   background: #3e5b98;
@@ -2401,4 +2473,12 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-rYiC1pO6Kb {
+  padding-top: 135px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rYiC1pO6Kb P {
+  color: #767676;
 }
