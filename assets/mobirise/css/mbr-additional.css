@@ -2474,11 +2474,122 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rYiC1pO6Kb {
-  padding-top: 135px;
-  padding-bottom: 15px;
+.cid-rYoW27qcye {
+  padding-top: 90px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
-.cid-rYiC1pO6Kb P {
+.cid-rYoW27qcye P {
   color: #767676;
+}
+.cid-rYp3n6mkEe {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/20200427-103438-2000x2216.jpg");
+}
+.cid-rYp6pQpscR {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rYp6pQpscR .mbr-text {
+  color: #767676;
+}
+.cid-rYp6pQpscR .mbr-text p {
+  background: #ffffff;
+}
+.cid-rYp637D7wu {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rYp637D7wu .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rYp5wkswqF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rYp5wkswqF .counter-container {
+  color: #767676;
+}
+.cid-rYp5wkswqF .counter-container ol {
+  margin-bottom: 0;
+}
+.cid-rYp5wkswqF .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-rYoXiQMkBT {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rYoXiQMkBT .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rYoXiQMkBT .step {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+}
+.cid-rYoXiQMkBT .separline {
+  position: relative;
+}
+.cid-rYoXiQMkBT .separline:after {
+  top: 44px;
+  left: 18px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (20px + 4px) * 2);
+  background-color: #efefef;
+}
+.cid-rYp13c8ki8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rYp13c8ki8 P {
+  color: #767676;
+}
+.cid-rYp2oyfB3Y {
+  background: #55b4d4;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #cccccc, #55b4d4);
+}
+.cid-rYp2oyfB3Y .image-block {
+  margin: auto;
+}
+.cid-rYp2oyfB3Y figcaption {
+  position: relative;
+}
+.cid-rYp2oyfB3Y figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rYp2oyfB3Y .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rYp0Gh2Cmi {
+  background: #efefef;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #efefef, #ffffff);
+}
+.cid-rYp0Gh2Cmi .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rYp0Gh2Cmi .video-block {
+    width: 100% !important;
+  }
 }
