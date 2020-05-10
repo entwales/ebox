@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-03_2129",
-    "currentPage": "page3.html",
+    "currentPage": "setup.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2836,7 +2836,7 @@
         }
       ]
     },
-    "page3.html": {
+    "feedback.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "feedback",
