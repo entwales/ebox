@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-03_2129",
-    "currentPage": "cleaning.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -541,6 +541,9 @@
             },
             "P": {
               "color": "#767676"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header16",
